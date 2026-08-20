@@ -1,5 +1,7 @@
 # System Provisioning & Monitoring Labs
 
+#ALL THE LABS ARE DONE IN MacOS COMMANDS MAY VARY ACCORDING TO THE OS 
+
 This repository contains practical laboratory experiments completed as part of the **System Provisioning and Monitoring** coursework.
 
 The repository documents hands-on work with **Infrastructure as Code (IaC), Terraform, AWS, cloud infrastructure, automation, provisioning, networking, monitoring, and related DevOps concepts**.
